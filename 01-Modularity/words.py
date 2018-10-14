@@ -9,3 +9,4 @@ with urlopen('http://sixty-north.com/c/t.txt') as story:
     
 for word in story_words:
     print(word)
+
